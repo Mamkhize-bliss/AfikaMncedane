@@ -1,4 +1,5 @@
 Cybersecurity Operations Analyst | Cloud & DevSecOps Enthusiast
+
 I’m focused on building practical skills in SOC operations, threat detection, incident response, cloud security, and secure automation. My GitHub showcases hands-on labs, security scripts, detection engineering projects, and cloud-driven automation.
 
 🔐 Cybersecurity Focus
